@@ -1,4 +1,4 @@
-# Interpretation of model's statistics of binary logistic regression in SAS 4GL and the SAS Enterprise Guide tool
+# Interpretation of model's statistics of binary logistic regression in SAS 4GL and the SAS Enterprise Guide
 ### Author: Adrian Żelazek
 
 The aim of the project is to analyze individual statistics resulting from building a model of binary logistic regression concerning obesity. It should be emphasized that the aim of this project is only an analysis and interpretation of the obtained results, and not to build the best model.  
