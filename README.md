@@ -3,7 +3,7 @@
 
 The aim of the project is to analyze individual statistics resulting from building a model of binary logistic regression concerning obesity. It should be emphasized that the aim of this project is only an analysis and interpretation of the obtained results, and not to build the best model.  
 
-### The programming language and tool
+### Programming language and tool
 * SAS 4GL
 * SAS Enterprise Guide
 
